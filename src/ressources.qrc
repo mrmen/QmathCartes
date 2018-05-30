@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>equations.png</file>
+        <file>fonctions.png</file>
+        <file>pythagore.png</file>
+        <file>relatifs.png</file>
+        <file>thales.png</file>
+        <file>trigonometrie.png</file>
+    </qresource>
+</RCC>
